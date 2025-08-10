@@ -1,6 +1,4 @@
-# Wordle
-
-# Wordle — Python Console Edition
+# Wordle (weird version written solely in Python)
 
 This is my take on Wordle, but stripped down to basics — just a Python script you run in your terminal. Guess a five-letter word in six tries, get feedback on each letter, and see if you can crack the code before you run out of attempts.
 
